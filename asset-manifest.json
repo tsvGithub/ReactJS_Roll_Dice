@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https://tsvgithub.github.io/ReactJS_Roll_Dice/static/css/main.e08c43bc.chunk.css",
+    "main.js": "/https://tsvgithub.github.io/ReactJS_Roll_Dice/static/js/main.62aa54de.chunk.js",
+    "main.js.map": "/https://tsvgithub.github.io/ReactJS_Roll_Dice/static/js/main.62aa54de.chunk.js.map",
+    "runtime-main.js": "/https://tsvgithub.github.io/ReactJS_Roll_Dice/static/js/runtime-main.94149021.js",
+    "runtime-main.js.map": "/https://tsvgithub.github.io/ReactJS_Roll_Dice/static/js/runtime-main.94149021.js.map",
+    "static/js/2.3c091dae.chunk.js": "/https://tsvgithub.github.io/ReactJS_Roll_Dice/static/js/2.3c091dae.chunk.js",
+    "static/js/2.3c091dae.chunk.js.map": "/https://tsvgithub.github.io/ReactJS_Roll_Dice/static/js/2.3c091dae.chunk.js.map",
+    "index.html": "/https://tsvgithub.github.io/ReactJS_Roll_Dice/index.html",
+    "static/css/main.e08c43bc.chunk.css.map": "/https://tsvgithub.github.io/ReactJS_Roll_Dice/static/css/main.e08c43bc.chunk.css.map",
+    "static/js/2.3c091dae.chunk.js.LICENSE.txt": "/https://tsvgithub.github.io/ReactJS_Roll_Dice/static/js/2.3c091dae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94149021.js",
+    "static/js/2.3c091dae.chunk.js",
+    "static/css/main.e08c43bc.chunk.css",
+    "static/js/main.62aa54de.chunk.js"
+  ]
+}
